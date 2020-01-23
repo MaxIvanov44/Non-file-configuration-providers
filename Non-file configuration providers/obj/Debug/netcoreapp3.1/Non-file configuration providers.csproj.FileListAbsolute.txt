@@ -1,0 +1,20 @@
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\staticwebassets\Non-file configuration providers.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\staticwebassets\Non-file configuration providers.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.exe
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.deps.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.runtimeconfig.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.dll
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\bin\Debug\netcoreapp3.1\Non-file configuration providers.pdb
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.dll
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.pdb
+C:\Users\ivano\source\repos\Non-file configuration providers\Non-file configuration providers\obj\Debug\netcoreapp3.1\Non-file configuration providers.genruntimeconfig.cache
